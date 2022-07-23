@@ -3,7 +3,7 @@
 
 using namespace std;
 
-ifstream in("a.txt");
+ifstream in("27A.txt");
 
 int main(){
     int n;
